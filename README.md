@@ -1,4 +1,10 @@
 ### Hi there 👋
+ Hello
+
+my name is Gustavo i live in brazil in SP, i am a programming             student, front-end, and i hope my codes help you😀
+
+ 1. 🖥front-end in progress
+ 2. 🖥back-end loading...
 
 <!--
 **GustavoziN/GustavoziN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
