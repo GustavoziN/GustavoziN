@@ -4,14 +4,6 @@
 - :busts_in_silhouette: Eu atualmente estou aprendendo JavaScript e React.
 - :mortar_board: Eu sou um Desenvolvedor front end.
 
-### :triangular_ruler: • Linguagens e Ferramentas
-
-### :closed_book: • Últimos Projetos
-
-<ul>
-<li>:dart: <a href="#">atualmente estou desenvolvendo o novo site de mangás da scans como front-end da equipe.</a></li>
-<li>:fire: <a href="#">Super Scans</a></li>
-</ul>
 
 ### :star: • Status do Github
 
