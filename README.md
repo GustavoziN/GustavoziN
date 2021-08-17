@@ -1,7 +1,7 @@
 
 ### • Olá eu sou GustavoziN
 
-- :busts_in_silhouette: Eu atualmente estou aprendendo Python, PHP com PDO e React native .
+- :busts_in_silhouette: Eu atualmente estou aprendendo JavaScript e React.
 - :mortar_board: Eu sou um Desenvolvedor front end.
 
 ### :triangular_ruler: • Linguagens e Ferramentas
