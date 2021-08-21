@@ -1,7 +1,7 @@
 
 ### • Olá eu sou GustavoziN
 
-- :busts_in_silhouette: Eu atualmente estou aprendendo JavaScript e React.
+- :busts_in_silhouette: Eu atualmente estou aprendendo JavaScript.
 - :mortar_board: Eu sou um Desenvolvedor front end.
 
 
