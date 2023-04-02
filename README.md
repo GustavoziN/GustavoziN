@@ -1,6 +1,6 @@
 
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Gustavo Duarte</i></a> 😃️</h1>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/gustavo-duarte-694ab7213/"><i>Gustavo Duarte</i></a> 😃️</h1>
   <p align="center">Estudo Desenvolvimento Web na <a href="https://www.rocketseat.com.br/"><i>Rocketseat</i></a>
   </a><br>
 </div>
